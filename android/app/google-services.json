@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450176369167",
+    "project_id": "ica-chat-app",
+    "storage_bucket": "ica-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450176369167:android:cbb3568e1790216ce4197a",
+        "android_client_info": {
+          "package_name": "com.icachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450176369167-dfpc3au8cm81efs94ph7mah3vv86mev7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJqJrevQ3pKS-kZCBiQgBLUd-Nc1O3PAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450176369167-dfpc3au8cm81efs94ph7mah3vv86mev7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
