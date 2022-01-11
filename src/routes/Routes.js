@@ -2,9 +2,9 @@ import React, {useState} from 'react';
 import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
 import {createStackNavigator} from '@react-navigation/stack';
 import {NavigationContainer} from '@react-navigation/native';
+import auth from '@react-native-firebase/auth';
 import UserAuthScreen from '../screens/UserAuthScreen';
 import MainChatSceen from '../screens/MainChatScreen';
-import auth from '@react-native-firebase/auth';
 
 const MainChatSceenStack = () => {
   return (
